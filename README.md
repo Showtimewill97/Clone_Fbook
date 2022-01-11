@@ -7,9 +7,9 @@ Uma réplica da página de login antiga do Facebook. Totalmente responsiva.</br>
 
 As seguintes ferramentas foram usadas na construção deste projeto:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://www.w3schools.com/cssref/)
-- [PHP](https://www.w3schools.com/php/default.asp)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) ![](https://img.shields.io/badge/--E34F26.svg?style=flat&logoColor=FAFAFF&logo=html5)
+- [CSS](https://www.w3schools.com/cssref/) ![](https://img.shields.io/badge/--1572b6.svg?style=flat&logoColor=FAFAFF&logo=css3)
+- [PHP](https://www.w3schools.com/php/default.asp) ![](https://img.shields.io/badge/--777BB4.svg?style=flat&logoColor=FAFAFF&logo=php)
 
 
 ### Autor
